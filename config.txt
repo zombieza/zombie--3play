@@ -1,5 +1,5 @@
-token=NDkxNTQ2OTkwMjkxODQ1MTUw.Dqtbig.NRJBOUaX54J2R4tHY43HLuSrLVg
+token=NTA1MzE2NTYzOTg2MDIyNDAx.DrR0fg.o4STxIEdVRQdVN5Zmpf4x8HQPTk
 owner=466425075487342615
-prefix=0
-game=Type 0play
+prefix=3
+game=Zombie Clan
 stayinchannel=true
