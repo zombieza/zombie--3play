@@ -1,5 +1,5 @@
 token=NTM5MTU2MjExMTkxNTEzMDk4.Dy-P4g.q0DHte6GuEVBFt8n0f8bkjQ8hKk
 owner=522322289547804693
 prefix=3
-game=Type 1play
+game=Type 3play
 stayinchannel=true
